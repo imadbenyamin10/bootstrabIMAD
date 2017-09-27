@@ -1,0 +1,26 @@
+.navbar-inverse .navbar-nav>.active>a,
+.navbar-inverse .navbar-nav>.active>a:hover,
+.navbar-inverse .navbar-nav>.active>a:focus
+{
+	background-color: #E41B12;
+}
+.nav navbar-nav navbar-right,.a_connection:hover{ 
+    background-color: green;
+}
+
+.dropdown-menu>li:hover{
+	/*background-color: green;*/
+	color: white;
+}
+.dropdown-menu>li>a:hover{
+	padding-left: 15px;
+	}
+.dropdown-menu>li>a{
+	color: black;
+	padding: 10px 5px;
+    color: #9d9d9d;
+}
+.dropdown-menu{
+	border-top: 3px solid #E41B12;
+	background-color: black;
+}
